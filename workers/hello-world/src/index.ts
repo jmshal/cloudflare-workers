@@ -1,8 +1,5 @@
-addEventListener('fetch', (event: Event) => {
-  const fetchEvent = event as FetchEvent;
-  fetchEvent.respondWith(hello(fetchEvent.request));
-});
+import { listen } from 'shared/listen';
 
-async function hello(request: Request) {
+listen(async function (request: Request) {
   return new Response('Hello World!', { status: 200 });
-}
+});
