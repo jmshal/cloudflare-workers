@@ -1,0 +1,6 @@
+name = "hello-world"
+type = "webpack"
+zone_id = "a7c2a7e890c96233bdb62c7d1481bdd9"
+private = false
+account_id = "744cb9e630e4a6453ba360609b116fc3"
+route = "hello-world.jmshal.cf/*"

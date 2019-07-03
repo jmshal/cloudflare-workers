@@ -1,0 +1,4 @@
+!.vscode
+workers/*/worker
+workers/*/dist
+**/.install.lock

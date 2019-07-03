@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@cloudflare/wrangler": "^1.0.2",
+    "awesome-typescript-loader": "^5.2.1",
+    "shared": "file:shared",
+    "typescript": "^3.5.2"
+  },
+  "author": "Jacob Marshall <github@jacob.dev> (https://jacob.dev)",
+  "license": "MIT",
+  "private": true
+}

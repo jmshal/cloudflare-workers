@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    "workers/*/dist": true,
+    "workers/*/worker": true,
+    "**/.install.lock": true
+  }
+}
