@@ -1,0 +1,6 @@
+name = "jacob-dev"
+type = "webpack"
+zone_id = "ccc8f0ec94f11d938ba9cf0fc2aff0b4"
+workers_dev = false
+account_id = "744cb9e630e4a6453ba360609b116fc3"
+route = "jacob.dev/*"
